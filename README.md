@@ -16,3 +16,5 @@
 [day14](day14.c)
 
 [day22](day22.c)
+
+[day23](day23.c)
