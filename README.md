@@ -22,3 +22,5 @@
 [day24](day24.c)
 
 [day25](day25.c)
+
+[day26](day26.c)
