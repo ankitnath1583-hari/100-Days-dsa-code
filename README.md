@@ -26,3 +26,5 @@
 [day26](day26.c)
 
 [day26](day26.c)
+
+[day27](day27.c)
